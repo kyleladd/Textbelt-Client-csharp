@@ -1,0 +1,6 @@
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextBeltClient\bin\Debug\TextBeltClient.dll
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextBeltClient\bin\Debug\TextBeltClient.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextBeltClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextBeltClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextBeltClient\obj\Debug\TextBeltClient.dll
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextBeltClient\obj\Debug\TextBeltClient.pdb

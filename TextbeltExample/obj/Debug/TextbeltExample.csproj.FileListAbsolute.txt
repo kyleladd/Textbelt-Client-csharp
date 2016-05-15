@@ -1,0 +1,9 @@
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\bin\Debug\TextbeltExample.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\obj\Debug\TextbeltExample.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\bin\Debug\TextbeltExample.exe
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\obj\Debug\TextbeltExample.exe
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\obj\Debug\TextbeltExample.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\bin\Debug\TextbeltClient.dll
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\bin\Debug\Newtonsoft.Json.dll
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\bin\Debug\TextbeltClient.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\TextBeltClient\TextbeltExample\bin\Debug\Newtonsoft.Json.xml
